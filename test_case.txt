@@ -1,0 +1,29 @@
+The following are the test cases during posting a photo:
+
+1.While posting the image check for any extra buttons visible on the screen that cause the app crash on pressing.
+
+2.Try different filters,crop and rotate function working properly with all the formats of image.
+
+3.Press the back button while posting the image.
+
+4.Try with images having space and special characters in name.
+
+5.Try images of different formats such as png,jpg etc for post image.
+
+6.Press the post button multiple times while posting image.
+
+7.Try to select any file that is not in picture formats.  
+
+8.While taking image from camera test for flash and timer options being mentioned and working properly.
+
+9.After clicking photo check for done ,discard and return button working.
+
+10.After posting the image see if it is rendered in the home page without refreshing.
+
+11.See if two buttons have similar functionality.(the cross and done button in choosing groups)
+
+
+
+vedio link : https://drive.google.com/file/d/1CpeCv2QIRkNsUMlcrwAvmloYoIeusI4R/view?usp=sharing
+
+github link : 
